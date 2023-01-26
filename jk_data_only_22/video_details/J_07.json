@@ -1,0 +1,12 @@
+{
+	"squats":[
+		{
+			"in_and_out":[
+				39,106,117,187,200,265,278,340,356,417
+			],
+			"class_label":[
+				"incorrect_out_knees", "incorrect_out_knees", "incorrect_out_knees", "incorrect_out_knees", "incorrect_out_knees"
+			]
+		}
+	]
+}

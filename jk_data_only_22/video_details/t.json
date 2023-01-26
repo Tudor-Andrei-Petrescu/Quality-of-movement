@@ -1,0 +1,20 @@
+{
+	"squats":[
+		{
+			"in_and_out":[
+				78,122,	150,189,   209,255,   325,368,   392,439,
+				551,602,   620,670,   685,732,   748,795,
+				865,920,	990,1038,	1050,1099,  1112,1160,	1170,1216,
+				1379,1424,	1432,1473,	1485,1535,	1550,1593,	1620,1666,
+				1745,1777,	1790,1823,	1835,1872,	1882,1920,	1931,1964
+			],
+			"class_label":[
+				"correct", "correct", "correct", "correct", "correct",
+				"incorrect_chin_tuck", "incorrect_chin_tuck", "incorrect_chin_tuck", "incorrect_chin_tuck",
+				"incorrect_lean_fwd", "incorrect_lean_fwd", "incorrect_lean_fwd", "incorrect_lean_fwd", "incorrect_lean_fwd",
+				"incorrect_feet_close", "incorrect_feet_close", "incorrect_feet_close", "incorrect_feet_close", "incorrect_feet_close",
+				"incorrect_not_low", "incorrect_not_low", "incorrect_not_low", "incorrect_not_low", "incorrect_not_low"
+			]
+		}
+	]
+}

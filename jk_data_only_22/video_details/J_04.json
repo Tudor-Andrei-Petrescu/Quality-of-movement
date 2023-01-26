@@ -1,0 +1,13 @@
+{
+	"squats":[
+		{
+			"in_and_out":[
+				23,82,94,153,165,228,238,298,310,360
+			],
+			"class_label":[
+				"incorrect_feet_close", "incorrect_feet_close", "incorrect_feet_close", "incorrect_feet_close", "incorrect_feet_close"
+			]
+		}
+	]
+
+}

@@ -1,0 +1,12 @@
+{
+	"squats":[
+		{
+			"in_and_out":[
+				44,117,126,194,203,262,275,336,350,410
+			],
+			"class_label":[
+				"incorrect_lean_fwd", "incorrect_lean_fwd", "incorrect_lean_fwd", "incorrect_lean_fwd", "incorrect_lean_fwd"
+			]
+		}
+	]
+}
